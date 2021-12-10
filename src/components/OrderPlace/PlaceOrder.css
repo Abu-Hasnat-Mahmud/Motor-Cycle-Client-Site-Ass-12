@@ -1,0 +1,14 @@
+.placeorder-form {
+  margin: 30px 150px;
+}
+.placeorder-form input {
+  display: block;
+  margin-top: 15px;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 300px;
+}
+.error {
+  color: red;
+}

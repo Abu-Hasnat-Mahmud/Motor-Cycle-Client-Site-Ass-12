@@ -1,0 +1,52 @@
+.bg-container {
+  height: 550px;
+  width: 100%;
+  background-image: url("https://cdn.shopify.com/s/files/1/0461/8371/0869/files/sliderbg-2_2000x.jpg?v=1599305939");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding-left: 10%;
+  display: flex;
+  align-items: center;
+}
+
+.bg-container h1 {
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.bg-container img {
+  height: 550px;
+}
+
+.subscribe {
+  background: #000a6d;
+  border-radius: 30px;
+  padding: 60px 40px;
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-input {
+  width: 70%;
+  border: none;
+  padding: 20px;
+  background: #ffffff;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  overflow: visible;
+}
+
+.subscribe button {
+  width: 29.99%;
+  padding: 20px;
+  background: #1ac167;
+  outline: none;
+  border: none;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
